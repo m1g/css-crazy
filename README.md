@@ -1,5 +1,5 @@
 # Css Crazy
 
-Just having Fun with CSS. Here's a list of some of the properties used for the effects:
+_Just having Fun with CSS_
 
-* Transition: 
+![image of page with alot of css](./src/images/css-crazy.gif)
